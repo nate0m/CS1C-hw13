@@ -1,30 +1,30 @@
-Script started on 2023-04-18 13:23:38-07:00 [TERM="st-256color" TTY="/dev/pts/4" COLUMNS="115" LINES="50"]
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004hddata e[?1l>[?2004l
-]2;date]1;dateTue Apr 18 01:23:41 PM PDT 2023
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
-]2;ls --color=tty -l]1;lstotal 20
--rw-r--r-- 1 nate nate 11078 Apr 18 13:22 hw12.cpp
--rw-r--r-- 1 nate nate     0 Apr 18 13:23 hw12.scr
--rw-r--r-- 1 nate nate   230 Apr 17 17:35 Makefile
--rw-r--r-- 1 nate nate  3715 Apr 18 13:22 queue.hpp
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
+Script started on 2023-04-20 10:56:52-07:00 [TERM="st-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="50"]
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 52
+-rw-r--r-- 1 nate nate  9609 Apr 20 10:56 hw12.cpp
+-rw-r--r-- 1 nate nate     0 Apr 20 10:56 hw12.scr
+-rw-r--r-- 1 nate nate 30720 Apr 18 13:24 [0m[01;31mhw12.tar[0m
+-rw-r--r-- 1 nate nate   240 Apr 18 13:24 Makefile
+-rw-r--r-- 1 nate nate  3397 Apr 20 10:56 queue.hpp
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
 ]2;make all]1;makeg++     hw12.cpp   -o hw12
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004h../.  lls -l[?1l>[?2004l
-]2;ls --color=tty -l]1;lstotal 80
--rwxr-xr-x 1 nate nate 59456 Apr 18 13:23 [0m[01;32mhw12[0m
--rw-r--r-- 1 nate nate 11078 Apr 18 13:22 hw12.cpp
--rw-r--r-- 1 nate nate     0 Apr 18 13:23 hw12.scr
--rw-r--r-- 1 nate nate   230 Apr 17 17:35 Makefile
--rw-r--r-- 1 nate nate  3715 Apr 18 13:22 queue.hpp
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004hvvalgrind ./hw12[1m [0m[0m [?1l>[?2004l
-]2;valgrind ./hw12]1;valgrind==332082== Memcheck, a memory error detector
-==332082== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
-==332082== Using Valgrind-3.20.0 and LibVEX; rerun with -h for copyright info
-==332082== Command: ./hw12
-==332082== 
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 116
+-rwxr-xr-x 1 nate nate 64456 Apr 20 10:57 [0m[01;32mhw12[0m
+-rw-r--r-- 1 nate nate  9609 Apr 20 10:56 hw12.cpp
+-rw-r--r-- 1 nate nate     0 Apr 20 10:56 hw12.scr
+-rw-r--r-- 1 nate nate 30720 Apr 18 13:24 [01;31mhw12.tar[0m
+-rw-r--r-- 1 nate nate   240 Apr 18 13:24 Makefile
+-rw-r--r-- 1 nate nate  3397 Apr 20 10:56 queue.hpp
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvvalgrind ./hw12[1m [0m[0m [?1l>[?2004l
+]2;valgrind ./hw12]1;valgrind==17723== Memcheck, a memory error detector
+==17723== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==17723== Using Valgrind-3.20.0 and LibVEX; rerun with -h for copyright info
+==17723== Command: ./hw12
+==17723== 
 
 *******************************************
-*              Running hw10               *
+*              Running hw12               *
 *      Programmed by Nathan Milton        *
 *        CS1C Tues/Thurs 1:30pm           *
 *******************************************
@@ -160,51 +160,43 @@ string queue front: seven
 
 emptying queues*******
 dequeued element: 8 from int queue.
-dequeued element: 1.8 from double queue.
-dequeued element: seven fron string queue.
 dequeued element: 9 from int queue.
-dequeued element: 1.9 from double queue.
-dequeued element: eight fron string queue.
 dequeued element: 10 from int queue.
-dequeued element: 1.1 from double queue.
-dequeued element: nine fron string queue.
 dequeued element: 11 from int queue.
-dequeued element: 1.11 from double queue.
-dequeued element: ten fron string queue.
 dequeued element: 12 from int queue.
-dequeued element: 1.12 from double queue.
-dequeued element: eleven fron string queue.
 dequeued element: 13 from int queue.
-dequeued element: 1.13 from double queue.
-dequeued element: twelve fron string queue.
 dequeued element: 14 from int queue.
-dequeued element: 1.14 from double queue.
-dequeued element: thirteen fron string queue.
-dequeued element: 1.15 from double queue.
-dequeued element: fourteen from string queue.
+dequeued element: 1.8 from double queue.
 
 
 checking if queue are full****
 int queue is not full
 double queue is not full
-string queue is not full
+string queue is full
 
 checking if queues are empty**
 int queue is empty
 double queue is not empty
 
 finding the front of queues*****
-double queue front: 1.16
-string queue front: fifthteen
-==332082== 
-==332082== HEAP SUMMARY:
-==332082==     in use at exit: 0 bytes in 0 blocks
-==332082==   total heap usage: 5 allocs, 5 frees, 74,164 bytes allocated
-==332082== 
-==332082== All heap blocks were freed -- no leaks are possible
-==332082== 
-==332082== For lists of detected and suppressed errors, rerun with: -s
-==332082== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [K[?1h=[?2004heexitm [?1l>[?2004l
+double queue front: 1.9
+string queue front: seven
+coping double queue with constructor*******
+printing original***
+1.9 1.1 1.11 1.12 1.13 1.14 1.15 1.16 1.17 
+seven eight nine ten eleven twelve thirteen fourteen fifthteen sixteen 
+printing copy***
+1.9 1.1 1.11 1.12 1.13 1.14 1.15 1.16 1.17 
+seven eight nine ten eleven twelve thirteen fourteen fifthteen sixteen 
+==17723== 
+==17723== HEAP SUMMARY:
+==17723==     in use at exit: 0 bytes in 0 blocks
+==17723==   total heap usage: 8 allocs, 8 frees, 74,900 bytes allocated
+==17723== 
+==17723== All heap blocks were freed -- no leaks are possible
+==17723== 
+==17723== For lists of detected and suppressed errors, rerun with: -s
+==17723== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw12/src]1;..cs1c/hw12/src[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  src[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004heexit[?1l>[?2004l
 ]2;exit]1;exit
-Script done on 2023-04-18 13:24:14-07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-04-20 10:58:25-07:00 [COMMAND_EXIT_CODE="0"]

@@ -4,7 +4,7 @@ int main() {
 
     cout << endl;
     cout << "*******************************************" << endl;
-    cout << "*              Running hw10               *" << endl;
+    cout << "*              Running hw12               *" << endl;
     cout << "*      Programmed by Nathan Milton        *" << endl;
     cout << "*        CS1C Tues/Thurs 1:30pm           *" << endl;
     cout << "*******************************************" << endl;
@@ -250,53 +250,20 @@ int main() {
     cout << endl << "emptying queues*******" << endl;
     i = intQueue.dequeue();
     cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
+    i = intQueue.dequeue();
+    cout << "dequeued element: " << i << " from int queue." << endl;
+    i = intQueue.dequeue();
+    cout << "dequeued element: " << i << " from int queue." << endl;
+    i = intQueue.dequeue();
+    cout << "dequeued element: " << i << " from int queue." << endl;
+    i = intQueue.dequeue();
+    cout << "dequeued element: " << i << " from int queue." << endl;
+    i = intQueue.dequeue();
+    cout << "dequeued element: " << i << " from int queue." << endl;
     i = intQueue.dequeue();
     cout << "dequeued element: " << i << " from int queue." << endl;
     d = doubleQueue.dequeue();
     cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    i = intQueue.dequeue();
-    cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    i = intQueue.dequeue();
-    cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    i = intQueue.dequeue();
-    cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    i = intQueue.dequeue();
-    cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    i = intQueue.dequeue();
-    cout << "dequeued element: " << i << " from int queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " fron string queue." << endl;
-    d = doubleQueue.dequeue();
-    cout << "dequeued element: " << d << " from double queue." << endl;
-    s = stringQueue.dequeue();
-    cout << "dequeued element: " << s << " from string queue." << endl;
-
-
-    
 
     cout << endl << endl;
     cout << "checking if queue are full****" << endl;
@@ -336,16 +303,17 @@ int main() {
     cout << "double queue front: " << d << endl;
     cout << "string queue front: " << s << endl;
 
-    /*
 
     cout << "coping double queue with constructor*******" << endl;
-    Queue<double> doubleQueue2;
-    doubleQueue2 = doubleQueue;
+    Queue<double> doubleQueue2(doubleQueue);
+    Queue<string> stringQueue2;
+    stringQueue2 = stringQueue;
     cout << "printing original***" << endl;
     doubleQueue.print();
+    stringQueue.print();
     cout << "printing copy***" << endl;
     doubleQueue2.print();
-   */
+    stringQueue2.print();
 
 
 
